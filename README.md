@@ -29,11 +29,3 @@ else:
 
 ---
 
-### **Why this code works:**
-1.  **Typing Effect (Top):** I used a "Typing SVG" that animates text like a hacker typing in a terminal. It says: *"Initializing Z3R Framework..."*
-2.  **The "Bash" Block:** The "Who Am I" section is formatted inside a code block (` ```bash `) so it looks like a Linux terminal output.
-3.  **Badges:** I used the "High Contrast" dark theme for your stats and skills. The colors (Neon Green/Black) match the Kali Linux/Hacker aesthetic.
-4.  **Structure:** It is clean, organized, and looks like a "Dashboard" rather than a resume.
-
-**Important:**
-In the "Establish Secure Link" section, I left a placeholder for your LinkedIn. Make sure to **cha
